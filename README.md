@@ -1,15 +1,15 @@
 # embeded_homework2
 IoT System Homework
 
-##Doorlock System
+## Doorlock System
 ### 2013041023 소프트웨어학과 최우열
 
-####사용 모듈
-<li>Button</li>
-<li>Buzzer</li>
-<li>SubMotor</li>
+#### Use Module
++ Button
++ Buzzer
++ SubMotor
 
-## 기능은 다음과 같습니다. 
+## Function 
 
 1. 소스코드에 비밀번호 네자리 0101가 지정되어있음
 2. 버튼이 세개 있으며 각각 0,1,Clear 입력기능을 함
